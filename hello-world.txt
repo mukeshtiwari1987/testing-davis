@@ -1,1 +1,2 @@
 Super life
+function from BranchA
